@@ -10,6 +10,10 @@ What is an AC Motor?
 An AC motor is a motor that converts alternating current into mechanical power. The stator and the rotor are important parts of AC motors. The stator is the stationary part of the motor, and the rotor is the rotating part of the motor.
 image(![image](https://user-images.githubusercontent.com/105424030/198822337-72e09e87-dd49-43b6-88e7-5a9a99ff0a4c.png)),
 
+Winding scheme of a 3-phase machine with non-symmetrical single layer fractional winding: N = 24 slots, p = 3, q = 1 + 1/3.
+
+![image](https://github.com/Muhsine562/MOTOR-WINDING/assets/105424030/e0fb068a-304f-4718-9258-0bac21e8d575)
+
 Non-optimized winding scheme of a 3-phase machine with non-symmetrical double layer fractional winding: N = 24 slots, p = 3, q = 1 + 1/3.
 
 ![image](https://github.com/Muhsine562/MOTOR-WINDING/assets/105424030/8520eb40-031d-492f-acbc-1c0cd0ed58c5)
