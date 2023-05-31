@@ -12,4 +12,4 @@ image(![image](https://user-images.githubusercontent.com/105424030/198822337-72e
 
 Non-optimized winding scheme of a 3-phase machine with non-symmetrical double layer fractional winding: N = 24 slots, p = 3, q = 1 + 1/3.
 
-#Winding diagram ![image](https://github.com/Muhsine562/MOTOR-WINDING/assets/105424030/889216b9-85f3-4f51-9f2f-af9dc37a5eba)
+![image](https://github.com/Muhsine562/MOTOR-WINDING/assets/105424030/8520eb40-031d-492f-acbc-1c0cd0ed58c5)
